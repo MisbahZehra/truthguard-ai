@@ -1,5 +1,6 @@
 # TruthGuard AI — The Intelligence Layer That Keeps AI Answers Fresh.
 
+Demo video: https://youtu.be/pvox7-3eSfk 
 Claim-level stale-answer detection: extracts factual claims from an LLM answer, researches each via Tavily
 (`POST https://api.tavily.com/search`), scores freshness per claim, and rebuilds a cited, corrected answer.
 Evidence-based verification using available sources at the time of checking — not a guarantee of truth.
