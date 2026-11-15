@@ -1,9 +1,0 @@
-Scenario A
-The latest stable release of Python is 3.9. Python was created by Guido van Rossum.
-
-Scenario B
-OpenAI's CEO is Sundar Pichai. The Eiffel Tower is in Paris.
-
-Scenario C
-<!-- Before recording, replace both bracketed placeholders with Docker Desktop's current price for the named plan and its latest release, checked from current official sources. -->
-Docker Desktop Pro currently costs [REPLACE WITH VERIFIED PRICE AND PLAN] per user per month. The latest stable release of Docker Desktop is [REPLACE WITH VERIFIED VERSION].

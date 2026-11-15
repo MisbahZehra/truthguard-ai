@@ -6,3 +6,5 @@ backend/.venv/
 node_modules/
 frontend/dist/
 *.zip
+
+demo_outputs/
